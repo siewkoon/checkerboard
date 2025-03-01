@@ -4,8 +4,8 @@ This is a Python project that generates a grayscale checkerboard pattern using M
 ## Installation
 1. **Clone the Repository**  
    Open a terminal and run:
-        git clone https://github.com/your-username/repository-name.git
-        cd repository-name
+          git clone https://github.com/siewkoon/checkerboard.git
+          cd repository-name
 
 2. **Install Dependencies**
    This script requires NumPy and Matplotlib. Install them using:
